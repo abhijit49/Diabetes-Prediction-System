@@ -16,7 +16,8 @@ This dataset, originally from the National Institute of Diabetes and Digestive a
   </ul>
 
 ### Potential Applications:
-* Develop machine learning models to predict diabetes risk
+* Develop machine learning models to predict diabetes risk (**My model achieves an accuracy of 83% on this task**)
+ ![Prediction accuracy](https://github.com/abhijit49/Diabetes-Prediction-System/assets/91731000/d0697bd8-b185-43b8-9ae0-eaf8dca6326a)
 * Explore relationships between diagnostic factors and diabetes prevalence
 * Conduct research on specific demographics (Pima Indian women in this case)
 
